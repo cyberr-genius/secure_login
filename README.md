@@ -1,5 +1,7 @@
 Multi-Application SSO Simulation (TLS/SSL)
+
 📌 Description
+
 This project is a simulation of a Single Sign-On (SSO) system designed to centralize authentication across multiple client applications. Developed as part of an academic project for an NGO, it relies on a client-server architecture using Secure Sockets (TLS/SSL) to guarantee the confidentiality and integrity of all data exchanges.
 
  Security Features
